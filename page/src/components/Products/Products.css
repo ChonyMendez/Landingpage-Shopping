@@ -1,0 +1,40 @@
+.product-card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 10px;
+    text-align: center;
+}
+
+.card {
+    flex: 0 0 calc(33.3333% - 20px); /* Ajusta el ancho de cada tarjeta */
+    margin: 10px;
+    padding: 10px; /* Agrega espacio adicional alrededor de cada tarjeta */
+    box-sizing: border-box; /* Asegura que el padding no afecte el ancho total */
+    border: 1px solid #ddd; /* Agrega un borde opcional */
+    background-color: #fff; /* Agrega un fondo blanco opcional */
+    transition: transform 0.2s ease-in-out; /* Agrega una animación de transición */
+    border-radius: 15px; /* Agrega esquinas redondeadas */
+}
+
+.card:hover {
+    transform: translateY(-5px); /* Efecto de elevación al pasar el mouse */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Agrega una sombra al pasar el mouse */
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 10px;
+    color: white;
+    background-color: rgb(216, 171, 75);
+    text-align: center;
+    cursor: pointer;
+    width: 60%;
+    font-size: 15px;
+    border-radius: 15px; /* Agrega esquinas redondeadas al botón */
+}
+
+.card button:hover {
+    opacity: 0.7;
+}

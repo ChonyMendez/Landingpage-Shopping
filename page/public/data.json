@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "On the Road",
+        "author": "Jack Kerouac",
+        "price": 10,
+        "quanty": 1,
+        "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRahIiUv1aRYxQF7x3w8Sf91Jg9KhAPOgpEjDCfxMfOmch68NWoI_mk_Z7SpxVf"
+
+    },
+    {
+        "id": 2,
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 12,
+        "quanty": 1,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-f7xYdpFMU3kEQq72PW4OKivzk7MJxBPGtB8Z5ltS20N5OK5BZGvyN6ggx9Qq"
+    },
+    {
+        "id": 3,
+        "name": "1984",
+        "author": "George Orwell",
+        "price": 15,
+        "quanty": 1,
+        "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsjWcTV5nii_wSDXi5HReFRPanXoje_wSlllWRx4VymFem65I313o0p6uXeC95"
+    },
+    {
+        "id": 4,
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 11,
+        "quanty": 1,
+        "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQ9X94UXH4htZ9UbK3yBGptBV-oN7A-mzfqqWYNEyGRsOZuKaO28Lh0CU6G-mn"
+    },
+    {
+        "id": 5,
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "price": 13,
+        "quanty": 1,
+        "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQp9v3UAKtgTWuTnT-MxLoi0tdXlnUdblH0if13kJATfjg0FxNBJEenAFOaKdcu"
+    },
+    {
+        "id": 6,
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "price": 10,
+        "quanty": 1,
+        "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ25WtIkVIoKVsPfVNXcxjpl43NFa_SUltogBHJt91kR357DiUZsbG4qLhOOy5m"
+    },
+    {
+        "id": 7,
+        "name": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "price": 14,
+        "quanty": 1,
+        "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR55fQBAX9GX_jXaoU7M1r8PLn1mUguq-n-HhiMzafkpWqyWKRqDRK7a0h5U3Yr"
+    },
+    {
+        "id": 8,
+        "name": "Moby-Dick",
+        "author": "Herman Melville",
+        "price": 16,
+        "quanty": 1,
+        "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1QeETl36DDlFJhFr0blK8JRPb3b_mUntWQaCGMqGQx8SNm_7SG3MjFR76YU7C"
+    },
+    {
+        "id": 9,
+        "name": "Brave New World",
+        "author": "Aldous Huxley",
+        "price": 13,
+        "quanty": 1,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNaqSrPKFIjUdLN2x0J86v7rkFsvKC3-cO8s2g_mtB3Led13KPFtnkvrjly6t"
+    },
+    {
+        "id": 10,
+        "name": "The Odyssey",
+        "author": "Homer",
+        "price": 18,
+        "quanty": 1,
+        "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2CiDpEfPFo1xbM3-ymNt3Ii5s8uGMwVphz4ZDtqCzjqHmSYsNLKdzIt9-0KNc"
+    }
+]
